@@ -14,7 +14,9 @@
 Carilah nilai ao, a1, dan a2 dengan menggunakan metoda Jacobi
 
 2𝑎0− 3𝑎1− 4𝑎2=−44
+
 −3𝑎0+ 9𝑎1−2𝑎2=78
+
 −5𝑎0−1𝑎1+3𝑎2=21
 
 [Lakukan iterasi hingga iterasi ke-2. Print semua nilai a0, a1, a2 tiap iterasinya]
